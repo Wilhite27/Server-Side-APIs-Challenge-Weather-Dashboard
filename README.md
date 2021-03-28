@@ -1,3 +1,4 @@
+![06-server-side-apis-homework-demo](https://user-images.githubusercontent.com/77178392/112761151-72a6ed80-8fbf-11eb-951c-ed98d95c37d9.png)
 # Server-Side-APIs-Challenge-Weather-Dashboard
 AS A traveler I WANT to see the weather outlook for multiple cities SO THAT I can plan a trip accordingly
 GIVEN a weather dashboard with form inputs
